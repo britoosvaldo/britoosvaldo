@@ -6,15 +6,15 @@
 - Tenho experiência estruturando projetos completos, desde o design até a implementação, e busco unir minha visão analítica da contabilidade com o universo do desenvolvimento para entregar soluções eficientes, organizadas e com foco no usuário
 - Em constante evolução — aprendendo todos os dias e construindo meu futuro na área de tecnologia
 
-| Soft Skills                 | Hard Skills              |
-|-----------------------------|-------------------------|
-| Proatividade                | HTML                    |
-| Curiosidade                 | CSS                     | 
-| Resolução de problemas      | JavaScript              | 
-| Comunicação Clara e Objetiva| React                   |
-| Organização                 | Node.js                 |
-| Trabalho em Equipe          | Express                 |
-| Colaboração                 | Excel                   |
-| Flexibilidade               | Word                    |
+| Hard Skills | Soft Skills                 |
+|-------------|-----------------------------|
+| HTML        | Proatividade                |    
+| CSS         | Curiosidade                 | 
+| JavaScript  | Resolução de problemas      | 
+| React       | Comunicação Clara e Objetiva|
+| Node.js     | Organização                 |
+| Express     | Trabalho em Equipe          |
+| Excel       | Colaboração                 |
+| Word        | Flexibilidade               |
 
 
