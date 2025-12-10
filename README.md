@@ -6,7 +6,7 @@
 - Tenho experiência estruturando projetos completos, desde o design até a implementação, e busco unir minha visão analítica da contabilidade com o universo do desenvolvimento para entregar soluções eficientes, organizadas e com foco no usuário
 - Em constante evolução — aprendendo todos os dias e construindo meu futuro na área de tecnologia
 
-| Soft Skill                  | Hard Skill              |
+| Soft Skills                 | Hard Skills              |
 |-----------------------------|-------------------------|
 | Proatividade                | HTML                    |
 | Curiosidade                 | CSS                     | 
@@ -16,6 +16,5 @@
 | Trabalho em Equipe          | Express                 |
 | Colaboração                 | Excel                   |
 | Flexibilidade               | Word                    |
-|-----------------------------|-------------------------|
 
 
