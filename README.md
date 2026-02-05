@@ -16,5 +16,6 @@
 | Express     | Trabalho em Equipe          |
 | Excel       | Colaboração                 |
 | Word        | Flexibilidade               |
+|         | Persistência                |
 
 
